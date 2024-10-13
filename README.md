@@ -8,22 +8,25 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 1. [Microsoft Resources](#microsoft-resources)
 2. [Curated by BITS Students, Teachers, and Alumni](#curated-by-bits-students-teachers-and-alumni)
-3. [Programming Basics and Practice](#programming-basics-and-practice)
-4. [Mathematics](#mathematics)
-5. [Data Structures and Algorithms](#data-structures-and-algorithms)
-6. [Advanced Programming](#advanced-programming)
-7. [Computer Architecture and Organization](#computer-architecture-and-organization)
-8. [Database Management Systems (DBMS)](#database-management-systems-dbms)
-9. [Operating Systems](#operating-systems)
-10. [Software Engineering](#software-engineering)
-11. [Computer Networks](#computer-networks)
-12. [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
-13. [General Coding Practice and Competitive Programming](#general-coding-practice-and-competitive-programming)
-14. [YouTube Channels for Various Topics](#youtube-channels-for-various-topics)
-15. [Full Stack Web Development](#full-stack-web-development)
-16. [Android Development](#android-development)
-17. [Data Science, AI, and ML](#data-science-ai-and-ml)
-18. [Game Development](#game-development)
+3. [Year 1 Resources](#year-1-resources)
+4. [Year 2 Resources](#year-2-resources)
+5. [Year 3 Resources](#year-3-resources)
+6. [Programming Basics and Practice](#programming-basics-and-practice)
+7. [Mathematics](#mathematics)
+8. [Data Structures and Algorithms](#data-structures-and-algorithms)
+9. [Advanced Programming](#advanced-programming)
+10. [Computer Architecture and Organization](#computer-architecture-and-organization)
+11. [Database Management Systems (DBMS)](#database-management-systems-dbms)
+12. [Operating Systems](#operating-systems)
+13. [Software Engineering](#software-engineering)
+14. [Computer Networks](#computer-networks)
+15. [Machine Learning and Artificial Intelligence](#machine-learning-and-artificial-intelligence)
+16. [General Coding Practice and Competitive Programming](#general-coding-practice-and-competitive-programming)
+17. [YouTube Channels for Various Topics](#youtube-channels-for-various-topics)
+18. [Full Stack Web Development](#full-stack-web-development)
+19. [Android Development](#android-development)
+20. [Data Science, AI, and ML](#data-science-ai-and-ml)
+21. [Game Development](#game-development)
 
 ---
 
@@ -70,6 +73,105 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - Extensive materials covering Mathematics 1 and 2.
 
 *Note: These resources may not cover all course topics but are excellent for reference and practicing key concepts.*
+
+---
+## 📚 **Year 1 Resources** <a name="year-1-resources"></a>
+
+1. **Mathematics 2**
+   - [Khan Academy](https://www.khanacademy.org)
+   - [MIT OpenCourseWare](https://ocw.mit.edu)
+   - [Dr. Priti Bajpai](https://www.youtube.com/@drpriti30/featured)
+   - [S Chand Academy](https://www.schandgroup.com)
+
+2. **BIO-SEM**
+   - [The Organic Chemistry Tutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
+
+3. **Chemistry**
+   - [The Organic Chemistry Tutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
+
+4. **Engineering Graphics**
+   - [Tikle's Academy](https://www.youtube.com/c/TiklesAcademy)
+   - [S Chand Academy](https://www.schandgroup.com)
+   - [ADTW Study](https://www.youtube.com/c/ADTWStudy)
+   - [EzEd Channel](https://www.youtube.com/c/EzEdChannel)
+
+5. **C Programming**
+   - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
+   - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
+   - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+   - [Programmiz](https://www.programiz.com)
+
+6. **Thermodynamics**
+   - [MOW](https://www.mow.com)
+   - [Physics Wallah](https://www.youtube.com/c/PhysicsWallah)
+   - [Engineers ki Paathshaala](https://www.youtube.com/c/EngineersKiPaathshaala)
+
+7. **Probability and Statistics**
+   - [The Organic Chemistry Tutor](https://www.youtube.com/c/TheOrganicChemistryTutor)
+
+8. **Electrical Sciences**
+   - [EEVblog](https://www.youtube.com/c/EEVblog)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+   - [Tikle's Academy](https://www.youtube.com/c/TiklesAcademy)
+
+---
+
+## 🌟 **Year 2 Resources** <a name="year-2-resources"></a>
+
+1. **Data Structures and Algorithms (DSA)**
+   - [Coursera's "Algorithms" by Princeton University](https://www.coursera.org/learn/algorithms-part1)
+   - [GeeksforGeeks](https://www.geeksforgeeks.org)
+   - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
+   - [Abdul Bari](https://www.youtube.com/c/AbdulBari)
+   - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+   - [Apna College](https://www.youtube.com/c/ApnaCollege)
+   - [Kunal Kushwaha](https://www.youtube.com/c/KunalKushwaha)
+   - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
+   - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+
+2. **Database Management Systems (DBMS)**
+   - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+   - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
+   - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
+   - [W3Schools - SQL Tutorial](https://www.w3schools.com/sql/)
+   - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+
+3. **Microprocessors**
+   - [Bharat Acharya Education](https://www.youtube.com/c/BharatAcharyaEducation)
+   - [Dr. Shazia’s Classroom](https://www.youtube.com/@DrShaziasClassroom)
+   - [Jagadish Nayak](https://www.youtube.com/@jagadishnayak901)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+
+4. **Mathematics 3**
+   - [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett)
+   - [Khan Academy](https://www.khanacademy.org)
+   - [Dr. Priti Bajpai](https://www.youtube.com/@drpriti30/featured)
+   - [S Chand Academy](https://www.schandgroup.com)
+
+---
+
+## 💡 **Year 3 Resources** <a name="year-3-resources"></a>
+
+1. **Computer Networks**
+   - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+   - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+
+2. **Compiler Construction**
+   - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+
+3. **Design and Analysis of Algorithms**
+   - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+   - [Abdul Bari](https://www.youtube.com/c/AbdulBari)
+   - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
+   - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
+   - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
+   - [Education4u](https://www.youtube.com/c/Education4u)
+   - [Gate Vidyalay](https://www.youtube.com/c/GateVidyalay)
 
 ---
 
