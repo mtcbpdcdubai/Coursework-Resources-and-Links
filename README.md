@@ -131,6 +131,9 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
      
 3. **Data Structures and Algorithms (DSA)**
+   - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
+     
+4. **Data Structures and Algorithms (DSA)**
    - [Coursera's "Algorithms" by Princeton University](https://www.coursera.org/learn/algorithms-part1)
    - [GeeksforGeeks](https://www.geeksforgeeks.org)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
@@ -142,7 +145,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-4. **Database Management Systems (DBMS)**
+5. **Database Management Systems (DBMS)**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
    - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
@@ -150,13 +153,13 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-5. **Microprocessors**
+6. **Microprocessors**
    - [Bharat Acharya Education](https://www.youtube.com/c/BharatAcharyaEducation)
    - [Dr. Shazia’s Classroom](https://www.youtube.com/@DrShaziasClassroom)
    - [Jagadish Nayak](https://www.youtube.com/@jagadishnayak901)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-6. **Mathematics 3**
+7. **Mathematics 3**
    - [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett)
    - [Khan Academy](https://www.khanacademy.org)
    - [Dr. Priti Bajpai](https://www.youtube.com/@drpriti30/featured)
