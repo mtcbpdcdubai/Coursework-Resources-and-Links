@@ -130,8 +130,9 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Textbook](https://drive.google.com/file/d/1Aqgkp-h2zGH-aL7kTFz27sV9K6n79e16/view?usp=drive_link)
    - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
      
-3. **Discrete Structures**
+3. **Discrete Structures for Computer Science**
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
+   - [Textbook](https://drive.google.com/file/d/10BlmQh1YXGszUZ01Bchi1GHC6mTd8R_s/view?usp=drive_link)
      
 4. **Data Structures and Algorithms (DSA)**
    - [Coursera's "Algorithms" by Princeton University](https://www.coursera.org/learn/algorithms-part1)
