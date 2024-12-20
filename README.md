@@ -128,7 +128,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
      
 2. **Digital Design**
    - [Textbook](https://drive.google.com/file/d/1Aqgkp-h2zGH-aL7kTFz27sV9K6n79e16/view?usp=drive_link)
-   - [Neso](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+   - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
      
 3. **Data Structures and Algorithms (DSA)**
    - [Coursera's "Algorithms" by Princeton University](https://www.coursera.org/learn/algorithms-part1)
@@ -166,16 +166,29 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ## 💡 **Year 3 Resources** <a name="year-3-resources"></a>
 
-1. **Computer Networks**
+1. **Computer Architecture**
+   - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
+   - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
+   - [Textbook1](https://drive.google.com/file/d/1QVx0y5YWwdGQfX4vYLLNjWgj5IBGDo4G/view?usp=drive_link)
+   - [Textbook2](https://drive.google.com/file/d/1MSOxxQnBpKtdGHCQISrwkj4DCsaCBbOy/view?usp=drive_link)
+   - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/1YVUz9V3dCwhjEOiTosKFAvrBSJ_81xjA/view?usp=drive_link)
+     
+2. **Operating Systems**
+   - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+   - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
+   - [Jenny's Lectures](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa)
+   - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/1jEbVJbnKwLwfOkcD8_OZXwNrVqCQfAGl/view?usp=drive_link)
+     
+3. **Computer Networks**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-2. **Compiler Construction**
+4. **Compiler Construction**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-3. **Design and Analysis of Algorithms**
+5. **Design and Analysis of Algorithms**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Abdul Bari](https://www.youtube.com/c/AbdulBari)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
