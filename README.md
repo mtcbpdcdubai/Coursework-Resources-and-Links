@@ -179,16 +179,22 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Jenny's Lectures](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa)
    - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/1jEbVJbnKwLwfOkcD8_OZXwNrVqCQfAGl/view?usp=drive_link)
      
-3. **Computer Networks**
+3. **Thoery of Computation**
+   - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i)
+   - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+   - [Anita R](https://www.youtube.com/playlist?list=PL6xbXi2C3sePDwyboAcu7l1UYuUT2SWYd)
+   - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/1xJIP4Fh7A2lZ7VBl--cIDtPSk-Rf4h9G/view?usp=drive_link)
+     
+4. **Computer Networks**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-4. **Compiler Construction**
+5. **Compiler Construction**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-5. **Design and Analysis of Algorithms**
+6. **Design and Analysis of Algorithms**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Abdul Bari](https://www.youtube.com/c/AbdulBari)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
