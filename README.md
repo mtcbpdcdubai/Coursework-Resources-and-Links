@@ -130,7 +130,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Textbook](https://drive.google.com/file/d/1Aqgkp-h2zGH-aL7kTFz27sV9K6n79e16/view?usp=drive_link)
    - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
      
-3. **Data Structures and Algorithms (DSA)**
+3. **Discrete Structures**
    - [Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3)
      
 4. **Data Structures and Algorithms (DSA)**
