@@ -119,7 +119,18 @@ Welcome to your comprehensive guide to essential resources curated for your cour
 
 ## 🌟 **Year 2 Resources** <a name="year-2-resources"></a>
 
-1. **Data Structures and Algorithms (DSA)**
+1. **Object Oriented Programming (OOP)**
+   - [GeeksforGeeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+   - [W3Schools](https://www.w3schools.com/java/java_oop.asp)
+   - [Apna College](https://www.youtube.com/watch?v=bSrm9RXwBaI)
+   - [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiwWLbSXKFtdGV8OVqr9dZr)
+   - [MTC Midsem-Prep Workshop](https://drive.google.com/file/d/16U5twNFt0Plh4AGMdBckOKQEga2JhL-0/view?usp=drive_link)
+     
+2. **Digital Design**
+   - [Textbook](https://drive.google.com/file/d/1Aqgkp-h2zGH-aL7kTFz27sV9K6n79e16/view?usp=drive_link)
+   - [Neso](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+     
+3. **Data Structures and Algorithms (DSA)**
    - [Coursera's "Algorithms" by Princeton University](https://www.coursera.org/learn/algorithms-part1)
    - [GeeksforGeeks](https://www.geeksforgeeks.org)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
@@ -131,7 +142,7 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-2. **Database Management Systems (DBMS)**
+4. **Database Management Systems (DBMS)**
    - [Gate Smashers](https://www.youtube.com/c/GateSmashers)
    - [Jenny's Lectures CS IT](https://www.youtube.com/c/JennysLecturesCSIT)
    - [Code with Harry](https://www.youtube.com/c/CodeWithHarry)
@@ -139,13 +150,13 @@ Welcome to your comprehensive guide to essential resources curated for your cour
    - [Neso Academy](https://www.youtube.com/c/NesoAcademy)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-3. **Microprocessors**
+5. **Microprocessors**
    - [Bharat Acharya Education](https://www.youtube.com/c/BharatAcharyaEducation)
    - [Dr. Shazia’s Classroom](https://www.youtube.com/@DrShaziasClassroom)
    - [Jagadish Nayak](https://www.youtube.com/@jagadishnayak901)
    - [Education4u](https://www.youtube.com/c/Education4u)
 
-4. **Mathematics 3**
+6. **Mathematics 3**
    - [Dr. Trefor Bazett](https://www.youtube.com/c/DrTreforBazett)
    - [Khan Academy](https://www.khanacademy.org)
    - [Dr. Priti Bajpai](https://www.youtube.com/@drpriti30/featured)
